@@ -12,3 +12,7 @@ Placement: Under Review
 
 Paper + Appendix:
 
+
+## Contact
+
+If you have any questions regarding the code and paper, please contact Leo Zhiyuan (Leo) Zhao at  ```leozhao1997[at]gatech[dot]edu```.
