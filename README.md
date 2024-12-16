@@ -15,4 +15,12 @@ Paper + Appendix:
 
 ## Contact
 
-If you have any questions regarding the code and paper, please contact Leo Zhiyuan (Leo) Zhao at  ```leozhao1997[at]gatech[dot]edu```.
+If you have any questions regarding the code and paper, please contact Zhiyuan (Leo) Zhao at  ```leozhao1997[at]gatech[dot]edu```.
+
+## Ackowledgement 
+
+This repo is built on or referring to the following established repo:
+
+[https://github.com/google-research/google-research/tree/master/tft](https://github.com/google-research/google-research/tree/master/tft)
+
+[https://github.com/thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library)
