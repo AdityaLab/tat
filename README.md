@@ -4,13 +4,13 @@
 
 Implementation of the paper "TAT: Temporal-Aligned Transformer for Multi-Horizon Industrial Demand Forecasting on Promotional Events"
 
-Authors: Zhiyuan (Leo) Zhao, Sitan Yang, B. Aditya Prakash
+Authors: Zhiyuan (Leo) Zhao <sup>1,2</sup>, Sitan Yang<sup>2</sup>, Kin G. Olivares<sup>2</sup>, Boris N. Oreshkin<sup>2</sup>, Stan Vitebsky<sup>2</sup>, Michael W. Mahoney<sup>2</sup>, B. Aditya Prakash<sup>1</sup>, Dmitry Efimov<sup>2</sup>
 
-Affiliation: Georgia Institute of Technology, Amazon Supply Chain Optimization Technologies (SCOT)
+Affiliation: 1. Georgia Institute of Technology; 2. Amazon
 
-Placement: Under Review
+Placement: TBD
 
-Paper + Appendix:
+Paper + Appendix: TBD
 
 
 ## Contact
